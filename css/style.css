@@ -498,8 +498,8 @@ h1, h2, h3, h4 {
         padding: var(--space-sm);
     }
     
-    .nav-logo {
-        font-size: 1rem;
+    .nav-logo-img {
+        height: 50px;
     }
     
     .nav-links {
@@ -547,6 +547,10 @@ h1, h2, h3, h4 {
     
     .portfolio-item--large .portfolio-image {
         aspect-ratio: 4/3;
+    }
+    
+    .about-logo {
+        height: 80px;
     }
     
     .contact-details {
